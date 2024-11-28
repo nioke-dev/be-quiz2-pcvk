@@ -64,7 +64,7 @@ namex==0.0.8
 nbclient==0.10.0
 nbconvert==7.16.4
 nbformat==5.10.4
-numpy==2.0.2
+numpy==1.23.0
 opencv-python==4.10.0.84
 opt_einsum==3.4.0
 optree==0.13.1
@@ -73,6 +73,7 @@ packaging==24.2
 pandas==2.2.3
 pandocfilters==1.5.1
 pillow==11.0.0
+pip==21.2.4  # Versi pip yang diinginkan-
 platformdirs==4.3.6
 propcache==0.2.0
 protobuf==5.28.3
@@ -94,7 +95,7 @@ requests==2.32.3
 rich==13.9.4
 rpds-py==0.21.0
 scikit-learn==1.5.1
-scipy==1.14.1
+scipy==1.9.0
 setuptools==75.6.0
 shellingham==1.5.4
 six==1.16.0
